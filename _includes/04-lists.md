@@ -1,4 +1,10 @@
-- Gardening
-- Art
-- DIYs
-- Walks
+- Gardening 
+  - 🌳 🏡
+- Art 
+  - 🎨
+- Books
+  - 📖  
+- DIYs 
+  - 🏡
+- Walks 
+  - 🚶‍♀️ 🌙 
